@@ -2,7 +2,7 @@
 
 
 # Pacman
-#### **Shir Indaporker 206260218 |  Liron Groer 316551142  |  Anna Kolkovsky 321892408**
+
 
 
  https://web-development-environments-2022.github.io/assignment2-316551142_206260218_321892408/
