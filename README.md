@@ -1,14 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7759218&assignment_repo_type=AssignmentRepo)
 
 
-# Pacman
-
-
-
- https://web-development-environments-2022.github.io/assignment2-316551142_206260218_321892408/
+# Pacman Game
  
- 
- ## Our Pacman Site:
+ ### Our Pacman Site:
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/81624047/169507927-b200e4f7-4b6b-438e-8b9c-a5645bb16996.png">
 
